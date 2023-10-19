@@ -1,6 +1,5 @@
 # Machine_learning
 
-<h2> CSE445 Machine Learning </h2>
+<h2> Machine Learning Projects </h2> <br> <br>
 
-ML learning <br>  
-ML-Bank churn prediction project
+Bank Customer Churn Prediction Machine Learning Project with Explainable AI  <br> Term Deposit Subscription Project <br>
